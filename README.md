@@ -1,6 +1,6 @@
 # Omnipresent
 
-TODO: Write a gem description
+Omnipresent is a gem that is meant to be a framework for building/writing apps everywhere.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+I don't know exactly what this will be helpful in doing, but a style is important when dealing with this.
 
 ## Contributing
 
